@@ -1,0 +1,15 @@
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\repository\MusicaRepository.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\service\impl\MusicaServiceImpl.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\SpotMusicApplication.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\domain\BaseEntity.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\domain\Playlist.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\service\MusicaService.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\service\impl\PlaylistImplService.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\config\ConfiguracaoSpringMvc.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\service\PlaylistService.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\controller\MusicaController.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\repository\impl\PlaylistRepositoryImpl.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\repository\PlaylistRepository.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\controller\PlaylistController.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\domain\Musica.java
+C:\cadastromusicas\src\main\java\br\com\celsoaquino\repository\impl\MusicaRepositoryImpl.java
