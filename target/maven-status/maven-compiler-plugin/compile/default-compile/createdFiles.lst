@@ -1,0 +1,15 @@
+br\com\celsoaquino\service\impl\MusicaServiceImpl.class
+br\com\celsoaquino\service\PlaylistService.class
+br\com\celsoaquino\service\MusicaService.class
+br\com\celsoaquino\controller\PlaylistController.class
+br\com\celsoaquino\repository\PlaylistRepository.class
+br\com\celsoaquino\repository\impl\PlaylistRepositoryImpl.class
+br\com\celsoaquino\controller\MusicaController.class
+br\com\celsoaquino\repository\MusicaRepository.class
+br\com\celsoaquino\domain\Playlist.class
+br\com\celsoaquino\SpotMusicApplication.class
+br\com\celsoaquino\domain\Musica.class
+br\com\celsoaquino\repository\impl\MusicaRepositoryImpl.class
+br\com\celsoaquino\config\ConfiguracaoSpringMvc.class
+br\com\celsoaquino\domain\BaseEntity.class
+br\com\celsoaquino\service\impl\PlaylistImplService.class
